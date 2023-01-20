@@ -1,4 +1,4 @@
-# NBA-Analytics-Web-App
+# NBA-Analytics-Web-App :basketball:
 
 An NBA analytics web appmade for the Algorithmn and Programming course final project using streamlit.
 
@@ -11,6 +11,8 @@ This is an NBA analytics web app where you can see up to date NBA player's stati
 some fun data visualization of NBA statistics, a forecast of every team's win/loss precentage for the next one year, as well the probability
 of a player to win MVP and be an All-Star, with the use of machine learning models.
 <br>
+
+### View the demonstration video [here](https://youtu.be/xwi-UGlQ9Jg)
 
 ## How to run this program
 View the live app [here](https://francescoemmanuel-nba-analytics-web-app-homepage-l62jyi.streamlit.app/)
