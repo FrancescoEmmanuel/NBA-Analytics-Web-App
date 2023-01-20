@@ -13,7 +13,7 @@ of a player to win MVP and be an All-Star, with the use of machine learning mode
 <br>
 
 ## How to run this program
-View the live app [here]("https://francescoemmanuel-nba-analytics-web-app-homepage-l62jyi.streamlit.app/)
+View the live app [here](https://francescoemmanuel-nba-analytics-web-app-homepage-l62jyi.streamlit.app/)
 
 To run this app locally:
 1. Download the files found on this repository
