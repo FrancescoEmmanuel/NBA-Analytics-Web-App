@@ -1,6 +1,6 @@
 # NBA-Analytics-Web-App :basketball:
 
-An NBA analytics web appmade for the Algorithmn and Programming course final project using streamlit.
+An NBA analytics web app made for the Algorithmn and Programming course final project using python and streamlit.
 
 ## Description of the program
 In the world of basketball where everyone goes crazy over dunks, 3 pointers and ankle breakers,
