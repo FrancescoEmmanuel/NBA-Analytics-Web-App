@@ -1,6 +1,6 @@
 streamlit
 pandas
 prophet
-prophet.plot
+
 plotly.express
 pickle
