@@ -20,7 +20,7 @@ DataSourcesinfo.write("""[Player Data](https://www.basketball-reference.com)\n
 [Github Source code](https://github.com/FrancescoEmmanuel/NBA-Analytics-Web-App)""")
 
 
-#This whole section below is pre data procession to load all the necessary data and dataframes
+#This whole section below is pre data processing to load all the necessary data and dataframes
 
 #set variables for the scraped data
 perGameStatsDf = WebScraper()
