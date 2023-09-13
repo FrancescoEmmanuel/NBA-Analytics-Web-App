@@ -1,4 +1,4 @@
-# NBA-Analytics-Web-App :basketball:
+# NBA-Analytics-Web-App :basketball: :basketball:
 
 An NBA analytics web app made for the Algorithmn and Programming course final project using python and streamlit.
 
